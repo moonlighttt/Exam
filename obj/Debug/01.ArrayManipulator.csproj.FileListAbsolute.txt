@@ -1,0 +1,6 @@
+C:\Users\Magi\Desktop\Soft Uni\Foundamentals\C # advance\exams\exam - 11.10.15\01- My solution\exam11.10.15\exam11.10.15\01.ArrayManipulator\bin\Debug\01.ArrayManipulator.exe.config
+C:\Users\Magi\Desktop\Soft Uni\Foundamentals\C # advance\exams\exam - 11.10.15\01- My solution\exam11.10.15\exam11.10.15\01.ArrayManipulator\bin\Debug\01.ArrayManipulator.exe
+C:\Users\Magi\Desktop\Soft Uni\Foundamentals\C # advance\exams\exam - 11.10.15\01- My solution\exam11.10.15\exam11.10.15\01.ArrayManipulator\bin\Debug\01.ArrayManipulator.pdb
+C:\Users\Magi\Desktop\Soft Uni\Foundamentals\C # advance\exams\exam - 11.10.15\01- My solution\exam11.10.15\exam11.10.15\01.ArrayManipulator\obj\Debug\01.ArrayManipulator.csprojResolveAssemblyReference.cache
+C:\Users\Magi\Desktop\Soft Uni\Foundamentals\C # advance\exams\exam - 11.10.15\01- My solution\exam11.10.15\exam11.10.15\01.ArrayManipulator\obj\Debug\01.ArrayManipulator.exe
+C:\Users\Magi\Desktop\Soft Uni\Foundamentals\C # advance\exams\exam - 11.10.15\01- My solution\exam11.10.15\exam11.10.15\01.ArrayManipulator\obj\Debug\01.ArrayManipulator.pdb
